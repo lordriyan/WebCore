@@ -1,2 +1,1 @@
-<?php
-    echo $message;
+Hello <?= $var1 ?>
